@@ -2,7 +2,6 @@ export { Button } from "./Button/Button";
 export { CopyCommand } from "./CopyCommand/CopyCommand";
 export { Footer } from "./Footer/Footer";
 export { Grid, GridItem } from "./Grid/Grid";
-export { default as LearnCard } from "./LearnCard/LearnCard";
 export { LogosCarousel } from "./LogosCarousel/LogosCarousel";
 export { default as ReleaseNote } from "./ReleaseNote/ReleaseNote";
 export { SectionLabel } from "./SectionLabel/SectionLabel";
